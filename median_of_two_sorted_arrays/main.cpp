@@ -130,3 +130,4 @@ public:
                         : tmp_values[last_pos];
     }
 };
+
